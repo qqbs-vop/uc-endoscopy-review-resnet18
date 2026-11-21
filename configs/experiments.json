@@ -1,0 +1,56 @@
+[
+  {
+    "run_id": "resnet18_A_seed17",
+    "backbone": "resnet18",
+    "variant": "A",
+    "seed": 17
+  },
+  {
+    "run_id": "resnet18_B_seed17",
+    "backbone": "resnet18",
+    "variant": "B",
+    "seed": 17
+  },
+  {
+    "run_id": "resnet18_H_seed17",
+    "backbone": "resnet18",
+    "variant": "H",
+    "seed": 17
+  },
+  {
+    "run_id": "resnet18_A_seed29",
+    "backbone": "resnet18",
+    "variant": "A",
+    "seed": 29
+  },
+  {
+    "run_id": "resnet18_B_seed29",
+    "backbone": "resnet18",
+    "variant": "B",
+    "seed": 29
+  },
+  {
+    "run_id": "resnet18_H_seed29",
+    "backbone": "resnet18",
+    "variant": "H",
+    "seed": 29
+  },
+  {
+    "run_id": "resnet18_A_seed43",
+    "backbone": "resnet18",
+    "variant": "A",
+    "seed": 43
+  },
+  {
+    "run_id": "resnet18_B_seed43",
+    "backbone": "resnet18",
+    "variant": "B",
+    "seed": 43
+  },
+  {
+    "run_id": "resnet18_H_seed43",
+    "backbone": "resnet18",
+    "variant": "H",
+    "seed": 43
+  }
+]

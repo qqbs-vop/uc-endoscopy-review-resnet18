@@ -1,0 +1,54 @@
+{
+  "release_level": "runnable_model",
+  "date": "2026-11-21",
+  "unit_contract_tests_passed": 5,
+  "source_and_packaged_EXE_cases_passed": 4,
+  "full_64_permutation_SHAP_cases_passed": 1,
+  "maximum_source_EXE_probability_difference": 0.0,
+  "maximum_previous_CPU_reference_difference": 8.600594255531169e-08,
+  "weight_sha256": "9897d7eb1a9038fabce42b22bd30cda2b9b89eec6722607fdeb48e5e61142d7f",
+  "executable_sha256": "b5e6766c4788a67b79e3a7d72e5565b7ef523afe49979ba27925a246e87b45be",
+  "packaged_executable_unchanged": true,
+  "research_images_published": 0,
+  "independent_image_files_in_Windows_asset": 0,
+  "GUI_languages": [
+    "en"
+  ],
+  "GUI_model_configuration_selector": false,
+  "third_party_notice_files": 73,
+  "fresh_dependency_install_tested": false,
+  "independent_clean_Windows_machine_tested": false,
+  "full_study_reproduction_claimed": false,
+  "case_details": [
+    {
+      "functional_case": 1,
+      "status": "passed",
+      "source_exe_probability_max_abs_difference": 0.0,
+      "previous_CPU_reference_max_abs_difference": 2.6227427007974313e-08,
+      "CAM_and_English_report": true
+    },
+    {
+      "functional_case": 2,
+      "status": "passed",
+      "source_exe_probability_max_abs_difference": 0.0,
+      "previous_CPU_reference_max_abs_difference": 8.600594255531169e-08,
+      "CAM_and_English_report": true
+    },
+    {
+      "functional_case": 3,
+      "status": "passed",
+      "source_exe_probability_max_abs_difference": 0.0,
+      "previous_CPU_reference_max_abs_difference": 9.179253246394126e-09,
+      "CAM_and_English_report": true
+    },
+    {
+      "functional_case": 4,
+      "status": "passed",
+      "source_exe_probability_max_abs_difference": 0.0,
+      "previous_CPU_reference_max_abs_difference": 2.7158609139377177e-08,
+      "CAM_and_English_report": true,
+      "SHAP_permutations": 64,
+      "SHAP_additivity_max_abs_residual": 8.881784197001252e-16
+    }
+  ]
+}

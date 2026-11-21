@@ -1,0 +1,16 @@
+{
+  "models": {
+    "resnet18_H_seed29": {
+      "backbone": "resnet18",
+      "variant": "H",
+      "seed": 29,
+      "file": "resnet18_H_seed29.pt",
+      "sha256": "9897d7eb1a9038fabce42b22bd30cda2b9b89eec6722607fdeb48e5e61142d7f",
+      "source_checkpoint_sha256": "27d1a91295aefb21ec82206f63cfd191691a8e189bda872eb16569b6d58fc905",
+      "temperature": 2.445166263726924
+    }
+  },
+  "fixed_model_id": "resnet18_H_seed29",
+  "selection": "user deployment choice 2026-11-16; research results unchanged",
+  "calibration_source_sha256": "2bc73232af5ebbd4c5aa24ce3a7520e52a261395822edf4b259603bd265653a4"
+}

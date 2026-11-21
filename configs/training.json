@@ -1,0 +1,37 @@
+{
+  "data": {
+    "data_version": "local_labeled_images_v1",
+    "split_version": "user_supplied_patient_split",
+    "data_root": "data/local/images",
+    "manifests": {
+      "train": {
+        "path": "data/local/train.csv",
+        "rows": null,
+        "sha256": null
+      },
+      "validation": {
+        "path": "data/local/validation.csv",
+        "rows": null,
+        "sha256": null
+      }
+    }
+  },
+  "weights": {
+    "resnet18": {
+      "path": "models/pretrained/resnet18-f37072fd.pth",
+      "sha256": "f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec"
+    }
+  },
+  "training": {
+    "max_epochs": 500,
+    "patience": 20,
+    "min_delta": 0.0001,
+    "batch_size": 32,
+    "workers": 4,
+    "cpu_threads": 2,
+    "learning_rate": 0.0001,
+    "minimum_lr": 1e-06,
+    "weight_decay": 0.0001,
+    "auxiliary_coefficient": 0.3
+  }
+}

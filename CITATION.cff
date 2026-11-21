@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated article when available."
+title: "UC Endoscopy Review: runnable ResNet-18 model and English desktop application"
+type: software
+version: 1.0.0
+date-released: 2026-11-21
+license: MIT
+authors:
+  - name: "UC Endoscopy Review contributors"

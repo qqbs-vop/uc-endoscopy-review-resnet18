@@ -1,0 +1,43 @@
+{
+  "release_level": "runnable_model",
+  "source_members": [
+    {
+      "source_archive_member": "UC_Research_Archive/03_Code/Current_English_Windows_Source/common.py",
+      "source_sha256": "d9c21140d8381d35bd7f03cdd8be23fb889534c9793380be9c24c475d52e8dd2",
+      "public_path": "src/common.py"
+    },
+    {
+      "source_archive_member": "UC_Research_Archive/03_Code/Current_English_Windows_Source/data.py",
+      "source_sha256": "e3f4ed58684ff46eeb9bd0871a641f23bd2b6f08075266fd49b89a71dbde0537",
+      "public_path": "src/data.py"
+    },
+    {
+      "source_archive_member": "UC_Research_Archive/03_Code/Current_English_Windows_Source/models.py",
+      "source_sha256": "0e9b68fce0c52ba41fbfafd430f0b3d96414fe7420b15dfd12667094afb9f7f9",
+      "public_path": "src/models.py"
+    },
+    {
+      "source_archive_member": "UC_Research_Archive/03_Code/Current_English_Windows_Source/application/runtime.py",
+      "source_sha256": "2e1e8d7b20a8d72e6473000ef879e2a9d2a29f4c4e020a1eb053d9bc97c8ea6c",
+      "public_path": "src/application/runtime.py"
+    },
+    {
+      "source_archive_member": "UC_Research_Archive/03_Code/Current_English_Windows_Source/application/desktop.py",
+      "source_sha256": "6a7e2a9f1f9b288b0ab6ea54dcfaa93ff7d0f3da91821453318a20cb133b37ee",
+      "public_path": "src/application/desktop.py"
+    },
+    {
+      "source_archive_member": "UC_Research_Archive/03_Code/Original_Local_Code/uc_boundary_slurm_20261105/engine.py",
+      "source_sha256": "b2731198124984b204d14e415b35e83170b79bca073edae6d94298224eaa942d",
+      "public_path": "src/engine.py"
+    },
+    {
+      "source_archive_member": "UC_Research_Archive/03_Code/Original_Local_Code/uc_boundary_slurm_20261105/slurm/runtime_device.py",
+      "source_sha256": "db984fb433c2a96d4663ae4cba7c755f906782b9b461d2dbc9defc5966f74c56",
+      "public_path": "src/runtime_device.py"
+    }
+  ],
+  "scientific_changes": "Backbone restricted to ResNet-18; user-data validation and relative paths added. Released H29 tensor values, preprocessing and explanation calculations retained.",
+  "data_included": false,
+  "publication_date": "2026-11-21"
+}

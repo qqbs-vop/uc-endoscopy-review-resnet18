@@ -1,0 +1,8 @@
+{
+  "model_sha256": "9897d7eb1a9038fabce42b22bd30cda2b9b89eec6722607fdeb48e5e61142d7f",
+  "windows_zip": "UC_Image_Analysis_Windows_English_NoImages_v1.0.0.zip",
+  "windows_zip_bytes": 295466950,
+  "removed_image_or_example_paths": 207,
+  "windows_zip_sha256": "92d1ff7e8dd45fe3def112c1e3ca42a840c664d8a8262c32ec84bb87afe2d068",
+  "third_party_notice_files": 73
+}
