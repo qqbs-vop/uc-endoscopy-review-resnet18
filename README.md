@@ -4,7 +4,7 @@ Runnable ResNet-18 model for four-level Mayo endoscopic subscore classification 
 
 ## Release scope
 
-This release provides one trained model, the H configuration with seed 29. A/B/H model definitions and training configurations for seeds 17, 29 and 43 are included. Research images, original data partitions and the full paper evaluation pipeline remain outside this release. See `docs/OPEN_SOURCE_SCOPE.md`.
+This release provides a trained ResNet-18 model for ulcerative colitis endoscopic image analysis.
 
 ## Windows application
 
